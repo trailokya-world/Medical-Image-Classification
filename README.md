@@ -64,12 +64,4 @@ streamlit run app.py
 | Loss | Sparse Categorical Crossentropy |
 | Optimizer | Adam |
 
-## 🔍 Evaluation Metrics
-- Confusion Matrix
-- Precision & Recall
-- F1-Score
-- ROC-AUC Curve
 
-## ⚠️ Disclaimer
-This project is for **educational and research purposes only**.  
-Not a substitute for professional medical diagnosis.
